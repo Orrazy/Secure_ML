@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bringer2013}
+J.~Bringer, H.~Chabanne, and ...
+\newblock An overview of secure multiparty computation in biometric
+  identification.
+\newblock In {\em Proc. of BTAS}, 2013.
+
+\bibitem{Pradel2021}
+K.~Pradel and J.~Mitchell.
+\newblock A privacy-preserving biometric authentication protocol with fully
+  homomorphic encryption.
+\newblock arXiv preprint arXiv:2111.12372, 2021.
+
+\bibitem{Sperling2022}
+R.~Sperling and ...
+\newblock Heft: Homomorphically encrypted fusion of biometric templates.
+\newblock arXiv preprint arXiv:2208.07241, 2022.
+
+\bibitem{Wu2023}
+X.~Wu and ...
+\newblock Accelerating privacy-preserving biometric identification with tensor
+  triples.
+\newblock Cryptology ePrint Archive, Report 2023/1863, 2023.
+
+\end{thebibliography}
